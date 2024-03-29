@@ -1,16 +1,15 @@
-# webadmincircular
+# CircularMall - Admin Web Interface
 
-A new Flutter project.
 
-## Getting Started
+## Project Description
+CircularMall Admin Web Interface is a complementary component to the CircularMall e-commerce application. Developed by university students, it provides an intuitive web-based platform for administrators to manage various aspects of the online store. Built using modern web technologies, this interface seamlessly integrates with the main CircularMall system.
 
-This project is a starting point for a Flutter application.
+## Key Features
+* **Overview Dashboard :** Get a comprehensive overview of the store's performance and key metrics.
+* **Category Management :** Add, edit, or remove product categories to effectively organize merchandise.
+* **Product Management :** Easily add new products, update existing listings, or remove items from the store.
+* **Order Management :** Handle customer orders efficiently, including processing, fulfillment, and cancellation.
+* **Delivery Management :** Track and manage the status of deliveries, ensuring timely and accurate shipment.
+* **Report Generation :** Generate detailed reports to analyze sales trends, inventory levels, and other crucial metrics.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This web-based administration panel empowers store administrators with the tools they need to effectively manage the CircularMall platform, streamlining operations and enhancing the overall user experience.
